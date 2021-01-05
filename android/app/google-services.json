@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "453859121810",
+    "firebase_url": "https://rhmefonline-default-rtdb.firebaseio.com",
+    "project_id": "rhmefonline",
+    "storage_bucket": "rhmefonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453859121810:android:90f670049fc958c9f4e44b",
+        "android_client_info": {
+          "package_name": "com.example.youssouf.admin_rhmef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453859121810-a6js82epaha2fv8m7a6ihm84e1dc8hka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1s4y0Juq1ovcfFIFy1Dpw73PD15Bd5DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453859121810-a6js82epaha2fv8m7a6ihm84e1dc8hka.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453859121810-2legbshibmlcrbtjhbbm09s220pqql9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dads"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453859121810:android:c0f7a3fe5f9809a1f4e44b",
+        "android_client_info": {
+          "package_name": "com.example.youssouf.rh_mef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453859121810-a6js82epaha2fv8m7a6ihm84e1dc8hka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1s4y0Juq1ovcfFIFy1Dpw73PD15Bd5DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453859121810-a6js82epaha2fv8m7a6ihm84e1dc8hka.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453859121810-2legbshibmlcrbtjhbbm09s220pqql9e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dads"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
